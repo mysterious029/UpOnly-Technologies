@@ -97,7 +97,7 @@ const Footer = () => {
                 />
               </a>
               <a
-                href="https://www.instagram.com/uponly.tech/"
+                href="https://www.instagram.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mx-2"
@@ -110,7 +110,7 @@ const Footer = () => {
                 />
               </a>
               <a
-                href="https://www.facebook.com/profile.php?id=100076092307912"
+                href="https://www.facebook.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mx-2"
